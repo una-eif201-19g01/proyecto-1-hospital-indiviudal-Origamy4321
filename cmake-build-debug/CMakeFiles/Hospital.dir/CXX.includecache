@@ -1,0 +1,196 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Cama.cpp
+string
+-
+Cama.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Cama.h
+iostream
+-
+sstream
+-
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Cama.h
+string
+-
+Paciente.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Paciente.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Doctor.cpp
+string
+-
+sstream
+-
+Doctor.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Doctor.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Doctor.h
+string
+-
+arregloPaciente.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloPaciente.h
+Especialidad.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Especialidad.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Especialidad.cpp
+string
+-
+Especialidad.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Especialidad.h
+sstream
+-
+iostream
+-
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Especialidad.h
+iostream
+-
+string
+-
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Hospital.cpp
+Hospital.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Hospital.h
+iostream
+-
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Hospital.h
+cstdint
+-
+string
+-
+iostream
+-
+sstream
+-
+arregloCama.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloCama.h
+arregloPaciente.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloPaciente.h
+arregloDoctor.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloDoctor.h
+arregloPabellon.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloPabellon.h
+arregloEspecialidad.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloEspecialidad.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Interfaz.cpp
+Interfaz.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Interfaz.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Interfaz.h
+iostream
+-
+Hospital.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Hospital.h
+Pabellon.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Pabellon.h
+Cama.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Cama.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Pabellon.cpp
+sstream
+-
+Pabellon.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Pabellon.h
+sstream
+-
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Pabellon.h
+string
+-
+Cama.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Cama.h
+arregloCama.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloCama.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Paciente.cpp
+string
+-
+sstream
+-
+Paciente.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Paciente.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Paciente.h
+string
+-
+Cama.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Cama.h
+Doctor.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Doctor.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloCama.cpp
+sstream
+-
+arregloCama.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloCama.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloCama.h
+Cama.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Cama.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloDoctor.cpp
+sstream
+-
+arregloDoctor.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloDoctor.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloDoctor.h
+Doctor.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Doctor.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloEspecialidad.cpp
+sstream
+-
+arregloEspecialidad.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloEspecialidad.h
+Especialidad.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Especialidad.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloEspecialidad.h
+Especialidad.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Especialidad.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloPabellon.cpp
+sstream
+-
+arregloPabellon.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloPabellon.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloPabellon.h
+arregloCama.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloCama.h
+Pabellon.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Pabellon.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloPaciente.cpp
+sstream
+-
+arregloPaciente.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloPaciente.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/arregloPaciente.h
+iostream
+-
+sstream
+-
+string
+-
+Paciente.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Paciente.h
+Doctor.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Doctor.h
+
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/main.cpp
+iostream
+-
+Interfaz.h
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/Interfaz.h
+

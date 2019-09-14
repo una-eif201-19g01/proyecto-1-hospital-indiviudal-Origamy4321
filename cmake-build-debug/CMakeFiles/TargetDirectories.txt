@@ -1,0 +1,3 @@
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/cmake-build-debug/CMakeFiles/Hospital.dir
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lady Asura III/Desktop/FINAL_1/FINAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
